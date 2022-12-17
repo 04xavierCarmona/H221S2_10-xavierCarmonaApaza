@@ -4,7 +4,7 @@
   "description": "",
   "main": "registro.js",
   "scripts": {
-    "test": "npm install express-session"
+    "test": "nodemon connect.js"
   },
   "keywords": [],
   "author": "",
